@@ -1,6 +1,6 @@
-# Leveldbzig
+# zig-leveldb
 
-Leveldbzig is a Zig wrapper for LevelDB, providing a simple and efficient way to interact with LevelDB from Zig programs.
+zig-leveldb is a Zig wrapper for LevelDB, providing a simple and efficient way to interact with LevelDB from Zig programs.
 
 ## Features
 
